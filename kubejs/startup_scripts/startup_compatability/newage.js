@@ -9,4 +9,4 @@ if (Platform.isLoaded("create_new_age")) {
 	e.create("incomplete_netherite_magnet", "create:sequenced_assembly").texture("create_new_age:item/fluxuated_magnetite").displayName("Incomplete Netherite Magnet").modelJson({parent: 'create_new_age:item/fluxuated_magnetite'})
 	e.create("incomplete_reactor_rod", "create:sequenced_assembly").texture("create_new_age:item/reactor_rod").displayName("Incomplete Reactor Rod").modelJson({parent: 'create_new_age:item/reactor_rod'})
     })
-})
+}
